@@ -10,7 +10,7 @@
 
 - 谯建超 2335061519 [@TheQjc](https://github.com/TheQjc)
 
-  负责：
+  负责：需求分析、后端开发、运维部署
 
 - 刘浩博 2335061614 [@BobLiu0518](https://github.com/BobLiu0518)
 
