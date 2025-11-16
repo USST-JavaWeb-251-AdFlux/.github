@@ -6,7 +6,7 @@
 
 - 陈嘉铭 2335061209 [@zitagiuder](https://github.com/zitagiuder)
 
-  负责：
+  负责：需求分析、数据库设计、测试、辅助开发
 
 - 谯建超 2335061519 [@TheQjc](https://github.com/TheQjc)
 
