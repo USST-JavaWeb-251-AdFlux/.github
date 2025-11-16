@@ -2,7 +2,7 @@
 
 - 金志伟 2335052313 [@Kafuu7No](https://github.com/Kafuu7No)
 
-  负责：
+  负责：需求分析、后端开发、测试
 
 - 陈嘉铭 2335061209 [@zitagiuder](https://github.com/zitagiuder)
 
