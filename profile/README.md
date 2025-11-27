@@ -19,6 +19,8 @@
 # 仓库说明
 
 - [`docs`](https://github.com/USST-JavaWeb-251-AdFlux/docs) 项目文档，包含基本设计思路、技术选型等
+- [`AdFlux-Prototype`](https://github.com/USST-JavaWeb-251-AdFlux/AdFlux-Prototype) AdFlux 用户追踪系统的原型
+- [`API-Schema`](https://github.com/USST-JavaWeb-251-AdFlux/API-Schema) API Schema
 - [`AdFlux-Frontend`](https://github.com/USST-JavaWeb-251-AdFlux/AdFlux-Frontend) AdFlux 前端
 - [`AdFlux-Backend`](https://github.com/USST-JavaWeb-251-AdFlux/AdFlux-Backend) AdFlux 后端
 - [`News-Frontend`](https://github.com/USST-JavaWeb-251-AdFlux/News-Frontend) News 前端
